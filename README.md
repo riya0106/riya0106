@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a Data Science graduate from UNC Charlotte passionate about Artificial Intelligence, Machine Learning, and Data Analytics.
+I'm a Data Science graduate from UNC Charlotte passionate about Data Science, AI/ML, and Software Engineer.
 
 I enjoy building projects that transform data into actionable insights and solving real-world problems through data-driven solutions.
 
